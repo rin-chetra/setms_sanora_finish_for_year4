@@ -1,0 +1,25 @@
+{
+	"data":[
+		{
+			"id":3,
+			"saleDate":"2017-03-15",
+			"supplierName":"Agency A",
+			"amount":10,
+			"parameter":"Unpaid"
+		},
+		{
+			"id":4,
+			"saleDate":"2017-03-15",
+			"supplierName":"Agency A",
+			"amount":10,
+			"parameter":"Unpaid"
+		},
+		{
+			"id":5,
+			"saleDate":"2017-03-15",
+			"supplierName":"Agency A",
+			"amount":10,
+			"parameter":"Unpaid"
+		}
+	]
+}
